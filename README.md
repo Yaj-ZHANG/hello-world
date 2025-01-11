@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now reach step for GitHub.
 
 Let's try to push a local branch to remote repo.
+
+Let's try how to modify the commit message.
